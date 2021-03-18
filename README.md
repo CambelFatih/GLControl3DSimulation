@@ -1,3 +1,3 @@
 # GLControl3DSimulation
 3D simulation using the GLControl object with the OpenTK library.
-![Simulation](https://user-images.githubusercontent.com/79880394/111609009-e7716f00-87ea-11eb-954a-8b384b29d53d.png)
+![42142](https://user-images.githubusercontent.com/79880394/111609397-4c2cc980-87eb-11eb-9d71-80156e57f32f.png)
